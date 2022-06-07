@@ -1,0 +1,7 @@
+For use with the https://data.nysed.gov/ website.
+Specifically for the County Pages that feature information about each school district.
+
+Examples:
+
+https://data.nysed.gov/profile.php?county=01
+https://data.nysed.gov/profile.php?county=02
